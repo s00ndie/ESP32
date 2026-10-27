@@ -1,1 +1,1 @@
-Hey my name is Bohdan, now i am interesting in IoT, thats thy i started learn ESP32. I will post very project here.
+Hey, my name is Bohdan. Now I am interested in IoT, that's why I started learning ESP32. I will post every project here.
